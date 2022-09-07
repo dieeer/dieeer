@@ -3,7 +3,7 @@
 <img height=320 width=auto border-radius=32 src='https://user-images.githubusercontent.com/107511052/188881712-12b9b85b-f002-4533-bd5f-4a220ea793ca.png'>
 i'm a career changer coming from a background in sales and recruitment roles
 
-born and raised in dundee, scotland - i am currently living in Edinburgh and on the hunt for my first role as a Software Developer
+born and raised in Dundee, Scotland - currently living in the capital Edinburgh and on the hunt for my first role as a Software Developer
 <br>
 
 #### connect with me
