@@ -27,6 +27,7 @@ born and raised in Dundee, Scotland - currently living in the capital Edinburgh 
 
 <p align = "left"><ul>
 <li><img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript"/></li>
+<li><img src="https://img.shields.io/badge/Swift-white?style=flat&logo=swift"/></li>
 <li><img src="https://img.shields.io/badge/Python-white?style=flat&logo=python"/></li>
 <li><img src="https://img.shields.io/badge/React-white?style=flat&logo=react"/> </li>
 <li><img src="https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=grey"/></li>
