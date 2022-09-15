@@ -3,7 +3,7 @@
 ### justin reid
 junior software developer
 <hr>
-<img height=auto width=100% border-radius=32 src='https://user-images.githubusercontent.com/107511052/188881712-12b9b85b-f002-4533-bd5f-4a220ea793ca.png'>
+<img height=auto width=100% src='https://user-images.githubusercontent.com/107511052/190359265-318c0620-cf1f-41f6-abcb-9335f75f09f2.png'>
 <hr>
 i'm a career changer coming from a background in sales and recruitment roles
 <hr>
