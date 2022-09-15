@@ -1,4 +1,4 @@
-<div align=center>
+<div align=center>          
 
 ### justin reid
 junior software developer
@@ -11,7 +11,10 @@ born and raised in Dundee, Scotland - currently living in the capital Edinburgh 
 <hr>
     
 **my stack**
+    
+          
 
+   
 <p>
     <ul>
         <li><img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript"/></li>
