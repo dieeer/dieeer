@@ -9,7 +9,6 @@ i'm a career changer coming from a background in sales and recruitment and a his
 <hr>
 born and raised in Dundee, Scotland - currently living in the capital Edinburgh and on the hunt for my first role as a Software Developer. ideally i'd be looking to enter the industry as a junior iOS Developer or Front-end Developer working with React
 <hr>
-i have a keen eye for design with around 6 years of self-taught photoshop and illustrator skills and enjoy both creating digital art and film photography. the evolution of user interfaces is one of my biggest interests and i am an advocate for accessible but beautiful design.
     
 ### my stack
 
