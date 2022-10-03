@@ -7,7 +7,7 @@
 <hr>
 i'm a career changer coming from a background in sales and recruitment and a history in tech-adjacent industries
 <hr>
-born and raised in Dundee, Scotland - currently living in the capital Edinburgh and on the hunt for my first role as a Software Developer. ideally i'd be looking to enter the industry as a junior iOS Developer or Front-end Developer working with React
+born and raised in Dundee, Scotland - currently living in the capital Edinburgh and on the hunt for my first role as a Software Developer. ideally i'd be looking to enter the industry as a junior iOS Developer or Front-end Developer working with React/JavaScript
 <hr>
     
 ### my stack
